@@ -1,18 +1,18 @@
 {
 	"user":{
-		"username":"Steve",
-		"pass":""
+		"username":"Tanveer 1234508",
+		"pass":"Aurangabad@01"
 	},
 
 	"server":{
-		"address":"127.0.0.1",
-		"port":25565
+		"address":"Mr_TT.aternos.me",
+		"port":22466
 	},
 
 	"keyword":{
 		"name" :
 		[
-			"Steve"
+			"Tanveer 1234508"
 		],
 
 		"sleep" :
